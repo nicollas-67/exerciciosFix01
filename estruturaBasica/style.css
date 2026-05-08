@@ -1,4 +1,28 @@
-body{
-    background-color: blue;
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffd8ea;
+    margin: 0;
+    padding: 20px;
+    color: #38001f;
+}
 
+h1 {
+    text-align: center;
+    color: #d32f89;
+    background-color: #f5bedc;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #d2197f;
+    margin-top: 30px;
+}
+
+p {
+    background-color: #ffbad7;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(255, 0, 119, 0.1);
+    line-height: 1.6;
 }
